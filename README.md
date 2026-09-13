@@ -15,8 +15,10 @@
 
 ## 🕷️ PhisingWraith.py Logo
 
+## 🕷️ PhisingWraith.py Logo
+
 <p align="center">
-  <img src="a_dark_cyberpunk_neon_hacker_styled_promotional.png" alt="PhisingWraith.py Logo" width="900">
+  <img src="assets/PhisingWraith.png" alt="PhisingWraith.py Logo" width="900">
 </p>
 
 <p align="center">
