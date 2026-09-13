@@ -140,7 +140,7 @@ php --version
 ### 3. Clone the repository
 
 ```powershell
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Sayed-Eslamuddin908/Cybersecurity-PhisingWraith.git
 cd PhisingWraith
 ```
 
@@ -172,7 +172,7 @@ curl --version
 Clone and run:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Sayed-Eslamuddin908/Cybersecurity-PhisingWraith.git
 cd PhisingWraith
 python3 PhisingWraith.py
 ```
@@ -225,7 +225,7 @@ php --version
 Clone and run:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Sayed-Eslamuddin908/Cybersecurity-PhisingWraith.git
 cd PhisingWraith
 python3 PhisingWraith.py
 ```
@@ -249,7 +249,7 @@ pkg install python php curl unzip git -y
 Clone:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/Sayed-Eslamuddin908/Cybersecurity-PhisingWraith.git
 cd PhisingWraith
 ```
 
