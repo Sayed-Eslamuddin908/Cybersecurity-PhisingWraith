@@ -1,0 +1,20 @@
+PHISING WRAITH - WINDOWS REQUIREMENTS
+Installation / Download Links
+
+Python 3
+https://www.python.org/downloads/windows/
+
+PHP for Windows
+https://windows.php.net/
+
+cURL for Windows
+https://curl.se/windows/
+
+7-Zip
+https://www.7-zip.org/download.html
+
+Git for Windows
+https://git-scm.com/install/windows
+
+Windows 11
+https://www.microsoft.com/software-download/windows11
